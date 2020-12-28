@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e03d020-9442-45f6-bd7d-599336cd1e00" name="Default Changelist" comment="25.12.2020 12.53">
+    <list default="true" id="1e03d020-9442-45f6-bd7d-599336cd1e00" name="Default Changelist" comment="27.12.2020 23.44">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/web/controller/CarController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/controller/CarController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/web/model/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/model/Car.java" afterDir="false" />
@@ -52,7 +52,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Полезное/httpsgithub/httpsgithub.comBuravtsevaEkaterina/spring-mvc-master/spring-mvc-master/spring-mvc-master" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -269,7 +269,9 @@
       <workItem from="1608883194241" duration="9747000" />
       <workItem from="1608929074162" duration="1307000" />
       <workItem from="1608973929544" duration="3313000" />
-      <workItem from="1609100747177" duration="1099000" />
+      <workItem from="1609100747177" duration="3063000" />
+      <workItem from="1609153930270" duration="12605000" />
+      <workItem from="1609187041930" duration="362000" />
     </task>
     <task id="LOCAL-00001" summary="24.12.2020 16.15">
       <created>1608815760756</created>
@@ -292,7 +294,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608889998254</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="27.12.2020 23.44">
+      <created>1609101898259</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609101898259</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,6 +323,7 @@
     <MESSAGE value="24.12.2020 16.15" />
     <MESSAGE value="25.12.2020 12.50" />
     <MESSAGE value="25.12.2020 12.53" />
-    <option name="LAST_COMMIT_MESSAGE" value="25.12.2020 12.53" />
+    <MESSAGE value="27.12.2020 23.44" />
+    <option name="LAST_COMMIT_MESSAGE" value="27.12.2020 23.44" />
   </component>
 </project>
